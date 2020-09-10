@@ -2,7 +2,7 @@
 
 실시간 비디오와 생체신호를 이용한 운전자 졸음판단 Multi-modal Input(MMI) Model
 
-## Data
+## Presentation
 |video|Link|
 |:---:|:---|
 |최종발표영상|[link](https://o365kw-my.sharepoint.com/:v:/g/personal/smj139052_office_kw_ac_kr/Ea0eoyEsPldNgs5bsD9CBTUB_IbgvTkAbmHpvf-x1W-QyA?e=XhIhKE)|
