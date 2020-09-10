@@ -11,10 +11,9 @@
 ![image](https://user-images.githubusercontent.com/41895063/92747155-e33d4280-f3be-11ea-8ae5-e9918862d700.png)
 
 ### Result
-|Model|Acc|Architecture}
+|Model|Acc|Architecture|
 |:---:|:---|:---:|
 |Basic MMI|0.5872||
-
 |MMI with deep layer|0.8233||
 |MMI with inception layer|0.8233||
 
