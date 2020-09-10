@@ -13,9 +13,9 @@
 ### Result
 |Model|Acc|Architecture|
 |:---:|:---|:---:|
-|Basic MMI|0.5872||
-|MMI with deep layer|0.8233||
-|MMI with inception layer|0.8233||
+|Basic MMI|0.5872|[image](https://github.com/minjung-s/Driver-drowsiness-detection/blob/master/image/basicMMI.jpg)|
+|MMI with deep layer|0.8233|[image](https://github.com/minjung-s/Driver-drowsiness-detection/blob/master/image/deepMMI.jpg)|
+|MMI with inception layer|0.8233|[image](https://github.com/minjung-s/Driver-drowsiness-detection/blob/master/image/inceptionMMI.jpg)|
 
 
 
