@@ -7,7 +7,7 @@
 |:---:|:---|
 |최종발표영상|[link](https://o365kw-my.sharepoint.com/:v:/g/personal/smj139052_office_kw_ac_kr/Ea0eoyEsPldNgs5bsD9CBTUB_IbgvTkAbmHpvf-x1W-QyA?e=XhIhKE)|
 
-## Model 
+## Inference
 ![image](https://user-images.githubusercontent.com/41895063/92747155-e33d4280-f3be-11ea-8ae5-e9918862d700.png)
 
 ### Result
