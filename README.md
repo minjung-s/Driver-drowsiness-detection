@@ -25,6 +25,6 @@
 |광운대학교 전자통신공학과 14학번|이승현|
 |광운대학교 전자통신공학과 14학번|임대락|
 
-## Code
-Code will be added soon!
+## Code&Paper
+Code&Paper will be added soon!
 
