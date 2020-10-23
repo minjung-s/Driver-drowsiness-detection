@@ -7,7 +7,7 @@
 |:---:|:---|
 |최종발표영상|[link](https://youtu.be/jO4RC7kcs68)|
 
-## Inference
+## Architecture
 ![image](https://user-images.githubusercontent.com/41895063/92747155-e33d4280-f3be-11ea-8ae5-e9918862d700.png)
 
 ### Result
