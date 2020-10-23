@@ -17,7 +17,7 @@
 |MMI with deep layer|0.8233|[image](https://github.com/minjung-s/Driver-drowsiness-detection/blob/master/image/deepMMI.jpg)|
 |MMI with inception layer|0.8233|[image](https://github.com/minjung-s/Driver-drowsiness-detection/blob/master/image/inceptionMMI.jpg)|
 
-## contributors
+## ontributors
 
 |광운대학교 전자통신공학과 16학번|신민정 (조장)|
 |:---|:---:|
