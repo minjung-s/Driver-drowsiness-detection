@@ -10,14 +10,21 @@
 ## Architecture
 ![image](https://user-images.githubusercontent.com/41895063/92747155-e33d4280-f3be-11ea-8ae5-e9918862d700.png)
 
-### Result
+## Result
 |Model|Acc|Architecture|
 |:---:|:---|:---:|
 |Basic MMI|0.5872|[image](https://github.com/minjung-s/Driver-drowsiness-detection/blob/master/image/basicMMI.jpg)|
 |MMI with deep layer|0.8233|[image](https://github.com/minjung-s/Driver-drowsiness-detection/blob/master/image/deepMMI.jpg)|
 |MMI with inception layer|0.8233|[image](https://github.com/minjung-s/Driver-drowsiness-detection/blob/master/image/inceptionMMI.jpg)|
 
+## contributors
 
+|광운대학교 전자통신공학과 16학번|신민정 (조장)|
+|:---|:---:|
+|광운대학교 전자통신공학과 14학번|박재모|
+|광운대학교 전자통신공학과 14학번|이승현|
+|광운대학교 전자통신공학과 14학번|임대락|
 
-
+## Code
+Code will be added soon!
 
